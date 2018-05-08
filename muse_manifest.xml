@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="jamessweetenjr.com" resolutions="1x" timestamp="1525742829564">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mivcastillo.github.io" resolutions="1x" timestamp="1525751657395">
   <folder name="css">
     <file name="site_global.css" crc="4211047713"/>
-    <file name="index.css" crc="4276028342" ref="index"/>
+    <file name="index.css" crc="40956765" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -18,5 +18,5 @@
     <file name="wordcollage-crop-u129.jpg" crc="3765285593" ref="index"/>
     <file name="banner.png" crc="15004106" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="462786291" seo="true" mt="1525742804066" redirect="true"/>
+  <file name="index.html" crc="124605201" seo="true" mt="1525751622721" redirect="true"/>
 </manifest>
