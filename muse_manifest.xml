@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="jamessweetenjr.com" resolutions="1x" timestamp="1525742829564">
+  <folder name="css">
+    <file name="site_global.css" crc="4211047713"/>
+    <file name="index.css" crc="4276028342" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="balance.jpg" crc="4086573176" seo="true" ref="index"/>
+    <file name="doj.jpg" crc="3770206484" seo="true" ref="index"/>
+    <file name="graph1.jpg" crc="3979728601" seo="true" ref="index"/>
+    <file name="background.jpg" crc="4193920328" seo="true" ref="index"/>
+    <file name="wordcollage-crop-u129.jpg" crc="3765285593" ref="index"/>
+    <file name="banner.png" crc="15004106" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="462786291" seo="true" mt="1525742804066" redirect="true"/>
+</manifest>
